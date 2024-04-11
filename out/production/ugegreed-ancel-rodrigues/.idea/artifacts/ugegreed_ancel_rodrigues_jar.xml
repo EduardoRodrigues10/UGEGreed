@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ugegreed-ancel-rodrigues:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ugegreed_ancel_rodrigues_jar</output-path>
+    <root id="archive" name="ugegreed-ancel-rodrigues.jar">
+      <element id="module-output" name="ugegreed-ancel-rodrigues" />
+    </root>
+  </artifact>
+</component>
